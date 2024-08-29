@@ -49,7 +49,6 @@ Q -> Quit the Game");
             break;
         default:
             Console.WriteLine("Invalid Input");
-            Environment.Exit(1);
             break;
     }
 }
